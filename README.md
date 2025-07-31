@@ -64,3 +64,9 @@ The frontend will run on [http://localhost:5173](http://localhost:5173) (default
 - Make sure MongoDB Atlas credentials are correct in your `.env` file.
 - The `.env` file is ignored by git for security.
  GreenGrocer
+
+
+
+
+ Presentation-
+ .env file is used to store secret keys so that it won't be able displayed to others.
